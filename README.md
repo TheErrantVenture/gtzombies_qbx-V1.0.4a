@@ -1,4 +1,7 @@
-
+# This is version 1.0.4a which is the same version that can be found here: https://github.com/TheErrantVenture/gtzombies_qbx/releases/tag/V.1.0.4a
+- I suck at github, and the fork only shows an out-dated version of the gtzombies script.  This is posted so people can compare, review, quick reference the files in the release, without having to download or unzip.
+- Future maybe(s) edit wise:
+  - Remove big ass green boxes for immersion purposes.
 # GT Zombies Qbox Version
 - Converted on 8.1.25 by TheErrantVenture to QBox
 - All credits for the original ESX / QBCore version goes to D3IM4N & @WeRBorg
