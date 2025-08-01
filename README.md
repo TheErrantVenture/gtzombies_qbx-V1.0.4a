@@ -1,4 +1,5 @@
-# This is version 1.0.4a which is the same version that can be found here: https://github.com/TheErrantVenture/gtzombies_qbx/releases/tag/V.1.0.4a
+# This is version 1.0.4a which is the same version that can be found here:
+- https://github.com/TheErrantVenture/gtzombies_qbx/releases/tag/V.1.0.4a
 - I suck at github, and the fork only shows an out-dated version of the gtzombies script.  This is posted so people can compare, review, quick reference the files in the release, without having to download or unzip.
 - Future maybe(s) edit wise:
   - Remove big ass green boxes for immersion purposes.
