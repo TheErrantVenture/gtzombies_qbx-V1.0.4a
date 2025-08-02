@@ -37,7 +37,7 @@ RegisterNetEvent('zombies:giveLoot', function(zombieTypeKey)
 end)
 
 --QBCore.Functions.CreateCallback('zombies:hasCureItem', function(source, cb, itemName)
-exports.qbx_core:CreateCallback('zombies:hasCureItem', function(source, cb, itemName)
+QBCore.Functions.CreateCallback('zombies:hasCureItem', function(source, cb, itemName)
     local Player = exports.qbx_core:Player(source)--QBCore.Functions.GetPlayer(source)
     if Player then
         local item = Player.Functions.GetItemByName(itemName)
@@ -179,4 +179,5 @@ RegisterNetEvent('zombies:tryLootBoss', function(corpseID)
     corpse.looted        = true
     ZoneLootBlock[zoneId]= now + (Config.BossLoot.globalCooldown*1000)
     TriggerClientEvent('zombies:bossLooted', -1, corpseID)
+
 end)
